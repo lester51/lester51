@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lester51
-- 👀 I’m interested in BTC termux scripts
-- 🌱 I’m currently learning on Termux
-- 💞️ I’m looking to collaborate on (not now)
+- 🌸 Progaming Languages: I know litle in Java, NodeJS and HTML
 - 📫 How to reach me : lesternavarra@gmail.com
 
 <!---
