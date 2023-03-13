@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lester51
-- 🌸 Progaming Languages: I know litle in Java, NodeJS and HTML
+- 🌸 Progaming Languages: I know litle in Java, JavaScript, NodeJS
 - 📫 How to reach me : lesternavarra@gmail.com
 
 <!---
